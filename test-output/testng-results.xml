@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-26T15:51:55 IST" name="Default suite" finished-at="2024-08-26T15:52:00 IST" duration-ms="4020">
+    <groups>
+    </groups>
+    <test started-at="2024-08-26T15:51:55 IST" name="Default test" finished-at="2024-08-26T15:52:00 IST" duration-ms="4020">
+      <class name="RestAPI.ITestListnerclass">
+        <test-method is-config="true" signature="setupurl()[pri:0, instance:RestAPI.ITestListnerclass@f0c8a99]" started-at="2024-08-26T15:51:56 IST" name="setupurl" finished-at="2024-08-26T15:51:56 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupurl -->
+        <test-method signature="UITest()[pri:0, instance:RestAPI.ITestListnerclass@f0c8a99]" started-at="2024-08-26T15:51:56 IST" name="UITest" finished-at="2024-08-26T15:52:00 IST" duration-ms="3466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UITest -->
+      </class> <!-- RestAPI.ITestListnerclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

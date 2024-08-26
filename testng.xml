@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test1">
+	<parameter name= "name" value ="Swapnil"></parameter>
+	<parameter name = "job" value = "Lead"></parameter>
+    <classes>
+      <class name="RestAPI.ParameterAnnotation"/>
+    </classes>
+  </test> <!-- Test1 -->
+</suite> <!-- Suite -->
